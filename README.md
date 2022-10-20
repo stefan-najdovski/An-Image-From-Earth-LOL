@@ -6,14 +6,16 @@ ios app that shows a picture from our home, the planet earth
 # Target platform:
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-# Screenshot:
-![screenshot](https://raw.githubusercontent.com/stefan-najdovski/An-Image-From-Earth-LOL/main/screenshot.jpg)
-
 # What have I learned:
 
 - Build XCode Project.
 - Import Images/Assets.
 - Work with StoryBoard (Labels/ImageView).
+
+# Screenshot:
+![screenshot](https://raw.githubusercontent.com/stefan-najdovski/An-Image-From-Earth-LOL/main/screenshot.jpg)
+
+
 
 <!-- LICENSE -->
 ## License
